@@ -1,0 +1,216 @@
+
+ani_gfxm_teshujiangli.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/eff_faseguagn1/eff_fensanlizi_0016
+  rotate: false
+  xy: 2, 731
+  size: 127, 127
+  orig: 240, 201
+  offset: 57, 29
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0018
+  rotate: true
+  xy: 131, 724
+  size: 132, 134
+  orig: 240, 201
+  offset: 54, 25
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0020
+  rotate: true
+  xy: 827, 623
+  size: 138, 140
+  orig: 240, 201
+  offset: 51, 22
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0022
+  rotate: true
+  xy: 2, 578
+  size: 144, 146
+  orig: 240, 201
+  offset: 48, 18
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0024
+  rotate: true
+  xy: 150, 517
+  size: 150, 152
+  orig: 240, 201
+  offset: 45, 15
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0026
+  rotate: true
+  xy: 304, 512
+  size: 155, 157
+  orig: 240, 201
+  offset: 42, 12
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0028
+  rotate: true
+  xy: 463, 506
+  size: 161, 163
+  orig: 240, 201
+  offset: 39, 9
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0030
+  rotate: true
+  xy: 628, 459
+  size: 166, 168
+  orig: 240, 201
+  offset: 36, 6
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0032
+  rotate: true
+  xy: 798, 450
+  size: 171, 173
+  orig: 240, 201
+  offset: 34, 4
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0034
+  rotate: true
+  xy: 2, 338
+  size: 177, 179
+  orig: 240, 201
+  offset: 30, 0
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0036
+  rotate: true
+  xy: 183, 330
+  size: 180, 182
+  orig: 240, 201
+  offset: 29, 0
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0038
+  rotate: false
+  xy: 367, 322
+  size: 182, 182
+  orig: 240, 201
+  offset: 27, 0
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0040
+  rotate: true
+  xy: 551, 275
+  size: 182, 184
+  orig: 240, 201
+  offset: 28, 0
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0042
+  rotate: true
+  xy: 737, 266
+  size: 182, 183
+  orig: 240, 201
+  offset: 27, 0
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0044
+  rotate: false
+  xy: 656, 627
+  size: 169, 136
+  orig: 240, 201
+  offset: 34, 43
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0046
+  rotate: false
+  xy: 661, 886
+  size: 131, 107
+  orig: 240, 201
+  offset: 59, 57
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0048
+  rotate: false
+  xy: 794, 882
+  size: 136, 111
+  orig: 240, 201
+  offset: 57, 55
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0050
+  rotate: false
+  xy: 2, 860
+  size: 141, 113
+  orig: 240, 201
+  offset: 54, 54
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0052
+  rotate: false
+  xy: 695, 765
+  size: 146, 115
+  orig: 240, 201
+  offset: 52, 53
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0054
+  rotate: false
+  xy: 843, 763
+  size: 150, 117
+  orig: 240, 201
+  offset: 50, 52
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0056
+  rotate: false
+  xy: 145, 858
+  size: 154, 114
+  orig: 240, 201
+  offset: 48, 51
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0058
+  rotate: false
+  xy: 212, 974
+  size: 157, 19
+  orig: 240, 201
+  offset: 48, 50
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0060
+  rotate: false
+  xy: 51, 975
+  size: 159, 18
+  orig: 240, 201
+  offset: 47, 49
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0062
+  rotate: false
+  xy: 31, 977
+  size: 18, 16
+  orig: 240, 201
+  offset: 189, 49
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0064
+  rotate: false
+  xy: 14, 980
+  size: 15, 13
+  orig: 240, 201
+  offset: 192, 50
+  index: -1
+images/eff_faseguagn1/eff_fensanlizi_0066
+  rotate: false
+  xy: 2, 983
+  size: 10, 10
+  orig: 240, 201
+  offset: 195, 51
+  index: -1
+images/gongfuxiongmao
+  rotate: false
+  xy: 301, 780
+  size: 392, 104
+  orig: 392, 104
+  offset: 0, 0
+  index: -1
+images/jiugongge
+  rotate: false
+  xy: 371, 890
+  size: 288, 103
+  orig: 288, 103
+  offset: 0, 0
+  index: -1
+images/wulinzongshi
+  rotate: false
+  xy: 267, 669
+  size: 387, 109
+  orig: 387, 109
+  offset: 0, 0
+  index: -1
+images/xiaojiang_bg
+  rotate: false
+  xy: 2, 137
+  size: 830, 127
+  orig: 836, 127
+  offset: 4, 0
+  index: -1

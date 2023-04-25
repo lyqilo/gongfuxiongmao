@@ -1,0 +1,237 @@
+
+ani_gfxm_leiyanmoshi.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/eff_fire_1/images_efflight_0000
+  rotate: false
+  xy: 1128, 1813
+  size: 340, 130
+  orig: 360, 160
+  offset: 3, 17
+  index: -1
+images/eff_fire_1/images_efflight_0002
+  rotate: false
+  xy: 695, 1569
+  size: 343, 135
+  orig: 360, 160
+  offset: 0, 15
+  index: -1
+images/eff_fire_1/images_efflight_0004
+  rotate: false
+  xy: 2, 1580
+  size: 344, 134
+  orig: 360, 160
+  offset: 0, 15
+  index: -1
+images/eff_fire_1/images_efflight_0006
+  rotate: false
+  xy: 1470, 1810
+  size: 344, 130
+  orig: 360, 160
+  offset: 0, 15
+  index: -1
+images/eff_fire_1/images_efflight_0008
+  rotate: false
+  xy: 1040, 1543
+  size: 345, 136
+  orig: 360, 160
+  offset: 0, 11
+  index: -1
+images/eff_fire_1/images_efflight_0010
+  rotate: true
+  xy: 1861, 1598
+  size: 342, 137
+  orig: 360, 160
+  offset: 3, 11
+  index: -1
+images/eff_fire_1/images_efflight_0012
+  rotate: false
+  xy: 1387, 1543
+  size: 343, 136
+  orig: 360, 160
+  offset: 3, 12
+  index: -1
+images/eff_fire_1/images_efflight_0014
+  rotate: false
+  xy: 2, 1441
+  size: 343, 137
+  orig: 360, 160
+  offset: 3, 10
+  index: -1
+images/eff_fire_1/images_efflight_0016
+  rotate: false
+  xy: 2, 1716
+  size: 347, 133
+  orig: 360, 160
+  offset: 1, 13
+  index: -1
+images/eff_fire_1/images_efflight_0018
+  rotate: false
+  xy: 351, 1706
+  size: 346, 133
+  orig: 360, 160
+  offset: 1, 13
+  index: -1
+images/eff_fire_1/images_efflight_0020
+  rotate: false
+  xy: 693, 1429
+  size: 345, 138
+  orig: 360, 160
+  offset: 3, 13
+  index: -1
+images/eff_fire_1/images_efflight_0022
+  rotate: false
+  xy: 1040, 1402
+  size: 346, 139
+  orig: 360, 160
+  offset: 1, 14
+  index: -1
+images/eff_fire_1/images_efflight_0024
+  rotate: false
+  xy: 347, 1431
+  size: 344, 137
+  orig: 360, 160
+  offset: 1, 15
+  index: -1
+images/eff_fire_1/images_efflight_0026
+  rotate: false
+  xy: 699, 1706
+  size: 344, 133
+  orig: 360, 160
+  offset: 1, 15
+  index: -1
+images/eff_fire_1/images_efflight_0028
+  rotate: false
+  xy: 348, 1570
+  size: 345, 134
+  orig: 360, 160
+  offset: 0, 15
+  index: -1
+images/eff_shaoguang/images_sg_01_0000
+  rotate: false
+  xy: 2, 1957
+  size: 53, 41
+  orig: 360, 80
+  offset: 14, 22
+  index: -1
+images/eff_shaoguang/images_sg_01_0002
+  rotate: false
+  xy: 57, 1949
+  size: 84, 49
+  orig: 360, 80
+  offset: 6, 17
+  index: -1
+images/eff_shaoguang/images_sg_01_0004
+  rotate: false
+  xy: 143, 1947
+  size: 107, 51
+  orig: 360, 80
+  offset: 4, 15
+  index: -1
+images/eff_shaoguang/images_sg_01_0006
+  rotate: false
+  xy: 252, 1946
+  size: 123, 52
+  orig: 360, 80
+  offset: 7, 14
+  index: -1
+images/eff_shaoguang/images_sg_01_0008
+  rotate: false
+  xy: 377, 1946
+  size: 149, 52
+  orig: 360, 80
+  offset: 16, 14
+  index: -1
+images/eff_shaoguang/images_sg_01_0010
+  rotate: false
+  xy: 528, 1946
+  size: 140, 52
+  orig: 360, 80
+  offset: 35, 14
+  index: -1
+images/eff_shaoguang/images_sg_01_0012
+  rotate: false
+  xy: 670, 1945
+  size: 149, 53
+  orig: 360, 80
+  offset: 63, 14
+  index: -1
+images/eff_shaoguang/images_sg_01_0014
+  rotate: false
+  xy: 1773, 1942
+  size: 139, 56
+  orig: 360, 80
+  offset: 93, 12
+  index: -1
+images/eff_shaoguang/images_sg_01_0016
+  rotate: false
+  xy: 1625, 1943
+  size: 146, 55
+  orig: 360, 80
+  offset: 115, 12
+  index: -1
+images/eff_shaoguang/images_sg_01_0018
+  rotate: false
+  xy: 821, 1945
+  size: 145, 53
+  orig: 360, 80
+  offset: 136, 13
+  index: -1
+images/eff_shaoguang/images_sg_01_0020
+  rotate: false
+  xy: 968, 1945
+  size: 147, 53
+  orig: 360, 80
+  offset: 163, 15
+  index: -1
+images/eff_shaoguang/images_sg_01_0022
+  rotate: false
+  xy: 1117, 1945
+  size: 150, 53
+  orig: 360, 80
+  offset: 186, 15
+  index: -1
+images/eff_shaoguang/images_sg_01_0024
+  rotate: false
+  xy: 1269, 1945
+  size: 137, 53
+  orig: 360, 80
+  offset: 211, 15
+  index: -1
+images/eff_shaoguang/images_sg_01_0026
+  rotate: false
+  xy: 1506, 1944
+  size: 117, 54
+  orig: 360, 80
+  offset: 237, 13
+  index: -1
+images/eff_shaoguang/images_sg_01_0028
+  rotate: false
+  xy: 1408, 1945
+  size: 96, 53
+  orig: 360, 80
+  offset: 259, 13
+  index: -1
+images/jinrulieyanmoshi
+  rotate: false
+  xy: 2, 1851
+  size: 560, 93
+  orig: 560, 93
+  offset: 0, 0
+  index: -1
+images/lieyanmoshijieshu
+  rotate: false
+  xy: 564, 1841
+  size: 562, 102
+  orig: 562, 102
+  offset: 0, 0
+  index: -1
+images/xiaojiang_bg
+  rotate: false
+  xy: 1045, 1681
+  size: 814, 127
+  orig: 836, 127
+  offset: 11, 0
+  index: -1

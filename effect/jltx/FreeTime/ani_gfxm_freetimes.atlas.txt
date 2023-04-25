@@ -1,0 +1,27 @@
+
+ani_gfxm_freetimes.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/freetimes/chufamianfei
+  rotate: false
+  xy: 2, 567
+  size: 758, 125
+  orig: 828, 126
+  offset: 0, 1
+  index: -1
+images/freetimes/chufamianfei_y
+  rotate: false
+  xy: 2, 445
+  size: 513, 120
+  orig: 569, 141
+  offset: 46, 11
+  index: -1
+images/xiaojiang_bg
+  rotate: false
+  xy: 2, 694
+  size: 819, 127
+  orig: 836, 127
+  offset: 8, 0
+  index: -1

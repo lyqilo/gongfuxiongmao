@@ -1,0 +1,97 @@
+
+eff_zj_kuang.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_xm_fangkuang/eff_xiongmaokuang_0000
+  rotate: false
+  xy: 2, 399
+  size: 129, 98
+  orig: 129, 109
+  offset: 0, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0002
+  rotate: false
+  xy: 133, 399
+  size: 129, 98
+  orig: 129, 109
+  offset: 0, 3
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0004
+  rotate: false
+  xy: 264, 398
+  size: 129, 99
+  orig: 129, 109
+  offset: 0, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0006
+  rotate: false
+  xy: 129, 296
+  size: 129, 101
+  orig: 129, 109
+  offset: 0, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0008
+  rotate: false
+  xy: 260, 295
+  size: 128, 101
+  orig: 129, 109
+  offset: 0, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0010
+  rotate: false
+  xy: 2, 298
+  size: 125, 99
+  orig: 129, 109
+  offset: 1, 4
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0012
+  rotate: true
+  xy: 390, 247
+  size: 125, 103
+  orig: 129, 109
+  offset: 1, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0014
+  rotate: true
+  xy: 395, 374
+  size: 123, 102
+  orig: 129, 109
+  offset: 2, 1
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0016
+  rotate: false
+  xy: 2, 193
+  size: 127, 101
+  orig: 129, 109
+  offset: 0, 3
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0018
+  rotate: true
+  xy: 261, 165
+  size: 128, 102
+  orig: 129, 109
+  offset: 0, 2
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0020
+  rotate: false
+  xy: 131, 192
+  size: 128, 101
+  orig: 129, 109
+  offset: 0, 3
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0022
+  rotate: false
+  xy: 365, 144
+  size: 129, 101
+  orig: 129, 109
+  offset: 0, 3
+  index: -1
+eff_xm_fangkuang/eff_xiongmaokuang_0024
+  rotate: false
+  xy: 2, 88
+  size: 128, 102
+  orig: 129, 109
+  offset: 0, 2
+  index: -1

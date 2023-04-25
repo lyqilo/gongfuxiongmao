@@ -1,0 +1,153 @@
+
+ani_gfxm_gxhe.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_gongxini_1/eff_txt_gxhd_0000
+  rotate: true
+  xy: 1002, 991
+  size: 11, 17
+  orig: 400, 160
+  offset: 23, 120
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0002
+  rotate: true
+  xy: 701, 484
+  size: 82, 109
+  orig: 400, 160
+  offset: 4, 44
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0004
+  rotate: false
+  xy: 129, 459
+  size: 124, 121
+  orig: 400, 160
+  offset: 1, 33
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0006
+  rotate: false
+  xy: 323, 460
+  size: 173, 122
+  orig: 400, 160
+  offset: 4, 32
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0008
+  rotate: false
+  xy: 815, 552
+  size: 201, 122
+  orig: 400, 160
+  offset: 21, 32
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0010
+  rotate: false
+  xy: 124, 582
+  size: 197, 125
+  orig: 400, 160
+  offset: 59, 30
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0012
+  rotate: true
+  xy: 2, 342
+  size: 208, 125
+  orig: 400, 160
+  offset: 110, 30
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0014
+  rotate: false
+  xy: 815, 676
+  size: 202, 123
+  orig: 400, 160
+  offset: 157, 30
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0016
+  rotate: false
+  xy: 323, 584
+  size: 187, 123
+  orig: 400, 160
+  offset: 203, 30
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0018
+  rotate: true
+  xy: 2, 579
+  size: 128, 120
+  orig: 400, 160
+  offset: 269, 31
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0019
+  rotate: false
+  xy: 576, 450
+  size: 123, 116
+  orig: 400, 160
+  offset: 277, 31
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0020
+  rotate: false
+  xy: 812, 446
+  size: 107, 104
+  orig: 400, 160
+  offset: 293, 31
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0021
+  rotate: true
+  xy: 921, 469
+  size: 81, 101
+  orig: 400, 160
+  offset: 318, 32
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0022
+  rotate: false
+  xy: 953, 860
+  size: 57, 77
+  orig: 400, 160
+  offset: 339, 36
+  index: -1
+eff_gongxini_1/eff_txt_gxhd_0023
+  rotate: false
+  xy: 1002, 1004
+  size: 18, 18
+  orig: 400, 160
+  offset: 370, 52
+  index: -1
+eff_gongxini_1/levelup_button
+  rotate: false
+  xy: 921, 377
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+eff_gongxini_1/xx_cristal_tail001
+  rotate: false
+  xy: 498, 469
+  size: 76, 113
+  orig: 128, 128
+  offset: 27, 10
+  index: -1
+xiongmao1/bg
+  rotate: false
+  xy: 2, 709
+  size: 575, 313
+  orig: 576, 314
+  offset: 0, 1
+  index: -1
+xiongmao1/gongxini
+  rotate: false
+  xy: 579, 801
+  size: 372, 136
+  orig: 374, 136
+  offset: 1, 0
+  index: -1
+xiongmao1/images_shaoguagn1
+  rotate: true
+  xy: 579, 568
+  size: 231, 234
+  orig: 256, 256
+  offset: 13, 11
+  index: -1
+xiongmao1/shuzi_bg
+  rotate: false
+  xy: 579, 939
+  size: 421, 83
+  orig: 421, 83
+  offset: 0, 0
+  index: -1

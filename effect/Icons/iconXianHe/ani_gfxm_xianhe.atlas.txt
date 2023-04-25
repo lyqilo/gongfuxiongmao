@@ -1,0 +1,118 @@
+
+ani_gfxm_xianhe.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_quan/images_quan_0000
+  rotate: true
+  xy: 125, 271
+  size: 117, 125
+  orig: 128, 132
+  offset: 10, 5
+  index: -1
+eff_quan/images_quan_0002
+  rotate: true
+  xy: 253, 24
+  size: 123, 124
+  orig: 128, 132
+  offset: 4, 6
+  index: -1
+eff_quan/images_quan_0004
+  rotate: false
+  xy: 125, 26
+  size: 126, 122
+  orig: 128, 132
+  offset: 1, 8
+  index: -1
+eff_quan/images_quan_0006
+  rotate: false
+  xy: 253, 149
+  size: 125, 120
+  orig: 128, 132
+  offset: 1, 10
+  index: -1
+eff_quan/images_quan_0008
+  rotate: false
+  xy: 380, 270
+  size: 125, 118
+  orig: 128, 132
+  offset: 0, 12
+  index: -1
+eff_quan/images_quan_0010
+  rotate: false
+  xy: 127, 390
+  size: 123, 116
+  orig: 128, 132
+  offset: 0, 14
+  index: -1
+eff_quan/images_quan_0012
+  rotate: false
+  xy: 2, 160
+  size: 121, 121
+  orig: 128, 132
+  offset: 1, 9
+  index: -1
+eff_quan/images_quan_0014
+  rotate: true
+  xy: 125, 150
+  size: 119, 126
+  orig: 128, 132
+  offset: 1, 3
+  index: -1
+eff_quan/images_quan_0016
+  rotate: true
+  xy: 252, 271
+  size: 117, 126
+  orig: 128, 132
+  offset: 1, 1
+  index: -1
+eff_quan/images_quan_0018
+  rotate: true
+  xy: 380, 147
+  size: 121, 126
+  orig: 128, 132
+  offset: 2, 0
+  index: -1
+eff_quan/images_quan_0020
+  rotate: false
+  xy: 379, 22
+  size: 124, 123
+  orig: 128, 132
+  offset: 2, 1
+  index: -1
+eff_quan/images_quan_0022
+  rotate: true
+  xy: 2, 32
+  size: 126, 121
+  orig: 128, 132
+  offset: 2, 1
+  index: -1
+eff_quan/images_quan_0024
+  rotate: false
+  xy: 252, 390
+  size: 125, 116
+  orig: 128, 132
+  offset: 3, 2
+  index: -1
+eff_quan/images_quan_0026
+  rotate: false
+  xy: 2, 403
+  size: 123, 103
+  orig: 128, 132
+  offset: 5, 4
+  index: -1
+eff_quan/images_quan_0028
+  rotate: false
+  xy: 2, 283
+  size: 121, 118
+  orig: 128, 132
+  offset: 7, 4
+  index: -1
+xiongmao1/xianhe
+  rotate: true
+  xy: 379, 390
+  size: 116, 118
+  orig: 128, 132
+  offset: 7, 5
+  index: -1

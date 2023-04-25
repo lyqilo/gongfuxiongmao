@@ -1,0 +1,118 @@
+
+ani_gfxm_Q.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_Q/eff_Q_0000
+  rotate: true
+  xy: 104, 4
+  size: 17, 25
+  orig: 128, 132
+  offset: 14, 90
+  index: -1
+eff_Q/eff_Q_0002
+  rotate: true
+  xy: 153, 302
+  size: 32, 59
+  orig: 128, 132
+  offset: 12, 60
+  index: -1
+eff_Q/eff_Q_0004
+  rotate: false
+  xy: 153, 336
+  size: 45, 85
+  orig: 128, 132
+  offset: 12, 35
+  index: -1
+eff_Q/eff_Q_0006
+  rotate: false
+  xy: 94, 306
+  size: 57, 93
+  orig: 128, 132
+  offset: 12, 27
+  index: -1
+eff_Q/eff_Q_0008
+  rotate: false
+  xy: 86, 94
+  size: 70, 99
+  orig: 128, 132
+  offset: 12, 22
+  index: -1
+eff_Q/eff_Q_0010
+  rotate: false
+  xy: 2, 93
+  size: 82, 100
+  orig: 128, 132
+  offset: 12, 21
+  index: -1
+eff_Q/eff_Q_0012
+  rotate: false
+  xy: 2, 298
+  size: 90, 101
+  orig: 128, 132
+  offset: 14, 20
+  index: -1
+eff_Q/eff_Q_0014
+  rotate: false
+  xy: 2, 195
+  size: 88, 101
+  orig: 128, 132
+  offset: 21, 20
+  index: -1
+eff_Q/eff_Q_0016
+  rotate: true
+  xy: 2, 12
+  size: 79, 100
+  orig: 128, 132
+  offset: 31, 20
+  index: -1
+eff_Q/eff_Q_0018
+  rotate: true
+  xy: 104, 23
+  size: 69, 97
+  orig: 128, 132
+  offset: 44, 20
+  index: -1
+eff_Q/eff_Q_0020
+  rotate: false
+  xy: 92, 205
+  size: 61, 91
+  orig: 128, 132
+  offset: 57, 20
+  index: -1
+eff_Q/eff_Q_0022
+  rotate: false
+  xy: 105, 423
+  size: 49, 83
+  orig: 128, 132
+  offset: 69, 20
+  index: -1
+eff_Q/eff_Q_0024
+  rotate: false
+  xy: 156, 450
+  size: 37, 56
+  orig: 128, 132
+  offset: 81, 22
+  index: -1
+eff_Q/eff_Q_0026
+  rotate: true
+  xy: 156, 423
+  size: 25, 28
+  orig: 128, 132
+  offset: 93, 22
+  index: -1
+eff_Q/eff_Q_0028
+  rotate: true
+  xy: 2, 2
+  size: 8, 15
+  orig: 128, 132
+  offset: 106, 25
+  index: -1
+xiongmao1/Q_03
+  rotate: false
+  xy: 2, 401
+  size: 101, 105
+  orig: 128, 132
+  offset: 14, 11
+  index: -1

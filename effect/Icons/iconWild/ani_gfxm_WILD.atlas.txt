@@ -1,0 +1,125 @@
+
+ani_gfxm_WILD.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_wild/WILD_0001
+  rotate: false
+  xy: 114, 54
+  size: 11, 13
+  orig: 164, 80
+  offset: 19, 51
+  index: -1
+eff_wild/WILD_0003
+  rotate: true
+  xy: 93, 2
+  size: 33, 54
+  orig: 164, 80
+  offset: 14, 20
+  index: -1
+eff_wild/WILD_0005
+  rotate: true
+  xy: 191, 109
+  size: 46, 59
+  orig: 164, 80
+  offset: 14, 15
+  index: -1
+eff_wild/WILD_0007
+  rotate: true
+  xy: 191, 59
+  size: 48, 55
+  orig: 164, 80
+  offset: 19, 16
+  index: -1
+eff_wild/WILD_0009
+  rotate: false
+  xy: 149, 4
+  size: 66, 51
+  orig: 164, 80
+  offset: 22, 23
+  index: -1
+eff_wild/WILD_0011
+  rotate: false
+  xy: 2, 35
+  size: 77, 55
+  orig: 164, 80
+  offset: 22, 19
+  index: -1
+eff_wild/WILD_0013
+  rotate: true
+  xy: 87, 69
+  size: 77, 42
+  orig: 164, 80
+  offset: 27, 25
+  index: -1
+eff_wild/WILD_0015
+  rotate: false
+  xy: 2, 3
+  size: 64, 30
+  orig: 164, 80
+  offset: 41, 29
+  index: -1
+eff_wild/WILD_0017
+  rotate: false
+  xy: 179, 209
+  size: 73, 44
+  orig: 164, 80
+  offset: 65, 25
+  index: -1
+eff_wild/WILD_0019
+  rotate: false
+  xy: 2, 92
+  size: 83, 54
+  orig: 164, 80
+  offset: 67, 17
+  index: -1
+eff_wild/WILD_0021
+  rotate: true
+  xy: 131, 57
+  size: 68, 58
+  orig: 164, 80
+  offset: 84, 15
+  index: -1
+eff_wild/WILD_0023
+  rotate: false
+  xy: 179, 157
+  size: 59, 50
+  orig: 164, 80
+  offset: 93, 20
+  index: -1
+eff_wild/WILD_0025
+  rotate: false
+  xy: 68, 3
+  size: 23, 30
+  orig: 164, 80
+  offset: 118, 29
+  index: -1
+eff_wild/WILD_0027
+  rotate: false
+  xy: 81, 37
+  size: 21, 30
+  orig: 164, 80
+  offset: 120, 29
+  index: -1
+eff_wild/WILD_0029
+  rotate: false
+  xy: 104, 46
+  size: 8, 21
+  orig: 164, 80
+  offset: 133, 34
+  index: -1
+xiongmao1/WILD_1
+  rotate: false
+  xy: 2, 148
+  size: 128, 105
+  orig: 128, 132
+  offset: 0, 13
+  index: -1
+xiongmao1/WILD_2
+  rotate: true
+  xy: 132, 127
+  size: 126, 45
+  orig: 128, 46
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,27 @@
+
+ani_gfxm_jiugongge.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/images_faguangdian
+  rotate: false
+  xy: 292, 612
+  size: 383, 209
+  orig: 383, 240
+  offset: 0, 13
+  index: -1
+images/jiugongge
+  rotate: false
+  xy: 2, 718
+  size: 288, 103
+  orig: 288, 103
+  offset: 0, 0
+  index: -1
+images/xiaojiang_bg
+  rotate: false
+  xy: 2, 483
+  size: 819, 127
+  orig: 836, 127
+  offset: 8, 0
+  index: -1

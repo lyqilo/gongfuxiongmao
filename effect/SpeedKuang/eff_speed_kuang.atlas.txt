@@ -1,0 +1,125 @@
+
+eff_speed_kuang.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eff_speed/js_eff_speed0030
+  rotate: false
+  xy: 2, 828
+  size: 278, 546
+  orig: 320, 560
+  offset: 21, 9
+  index: -1
+eff_speed/js_eff_speed0033
+  rotate: false
+  xy: 282, 834
+  size: 254, 544
+  orig: 320, 560
+  offset: 33, 10
+  index: -1
+eff_speed/js_eff_speed0036
+  rotate: false
+  xy: 524, 1383
+  size: 264, 543
+  orig: 320, 560
+  offset: 28, 11
+  index: -1
+eff_speed/js_eff_speed0039
+  rotate: false
+  xy: 763, 294
+  size: 264, 542
+  orig: 320, 560
+  offset: 28, 13
+  index: -1
+eff_speed/js_eff_speed0042
+  rotate: false
+  xy: 790, 1386
+  size: 254, 540
+  orig: 320, 560
+  offset: 33, 14
+  index: -1
+eff_speed/js_eff_speed0045
+  rotate: false
+  xy: 538, 838
+  size: 240, 543
+  orig: 320, 560
+  offset: 40, 10
+  index: -1
+eff_speed/js_eff_speed0048
+  rotate: false
+  xy: 245, 281
+  size: 254, 545
+  orig: 320, 560
+  offset: 33, 8
+  index: -1
+eff_speed/js_eff_speed0051
+  rotate: false
+  xy: 780, 841
+  size: 268, 540
+  orig: 320, 560
+  offset: 26, 12
+  index: -1
+eff_speed/js_eff_speed0054
+  rotate: false
+  xy: 1050, 863
+  size: 268, 528
+  orig: 320, 560
+  offset: 26, 23
+  index: -1
+eff_speed/js_eff_speed0057
+  rotate: false
+  xy: 258, 1380
+  size: 264, 546
+  orig: 320, 560
+  offset: 28, 4
+  index: -1
+eff_speed/js_eff_speed0060
+  rotate: true
+  xy: 2, 2
+  size: 276, 544
+  orig: 320, 560
+  offset: 22, 5
+  index: -1
+eff_speed/js_eff_speed0063
+  rotate: false
+  xy: 501, 289
+  size: 260, 543
+  orig: 320, 560
+  offset: 30, 5
+  index: -1
+eff_speed/js_eff_speed0066
+  rotate: true
+  xy: 548, 11
+  size: 276, 541
+  orig: 320, 560
+  offset: 22, 4
+  index: -1
+eff_speed/js_eff_speed0069
+  rotate: false
+  xy: 2, 280
+  size: 241, 546
+  orig: 320, 560
+  offset: 40, 5
+  index: -1
+eff_speed/js_eff_speed0072
+  rotate: false
+  xy: 2, 1376
+  size: 254, 550
+  orig: 320, 560
+  offset: 33, 5
+  index: -1
+eff_speed/js_eff_speed0075
+  rotate: false
+  xy: 1046, 1393
+  size: 266, 533
+  orig: 320, 560
+  offset: 27, 7
+  index: -1
+eff_speed/js_eff_speed0078
+  rotate: false
+  xy: 1029, 306
+  size: 262, 533
+  orig: 320, 560
+  offset: 29, 7
+  index: -1
